@@ -1,1 +1,1 @@
-# Sigmahacks-Telemedicine
+# Telemedicine- SigmaHacks
